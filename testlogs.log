@@ -1,0 +1,200 @@
+2022-07-08 23:26:40,740 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-08 23:26:43,180 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-08 23:26:46,987 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-08 23:26:48,350 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-08 23:26:49,425 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-08 23:26:51,165 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-08 23:26:52,316 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-08 23:26:52,395 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-08 23:26:52,452 ERROR [TestLogger] seecartUpdate() TEST IS FAILED : Cart could not Update  ==> expected: <true> but was: <false> 
+2022-07-08 23:26:52,861 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-08 23:27:08,992 ERROR [TestLogger] seeIsCartEmpty() TEST IS FAILED : no such element: Unable to locate element: {"method":"css selector","selector":"div[class='empty']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'LAPTOP-DERO3GNT', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [073cdbc39bdabde1b0f66a8c3ed2d64c, findElement {using=css selector, value=div[class='empty']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\bmbay\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57831}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57831/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 073cdbc39bdabde1b0f66a8c3ed2d64c 
+2022-07-08 23:27:48,818 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-08 23:27:51,578 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-08 23:27:54,674 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-08 23:27:55,993 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-08 23:27:57,065 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-08 23:27:58,751 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-08 23:27:59,910 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-08 23:27:59,985 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-08 23:28:00,476 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-08 23:28:01,652 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 00:06:57,326 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:06:59,998 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:07:03,491 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:07:04,899 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:07:05,966 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:07:07,631 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:07:08,824 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:07:08,914 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:07:53,121 ERROR [TestLogger] seecartUpdate() TEST IS FAILED : Cart could not Update  ==> expected: <true> but was: <false> 
+2022-07-09 00:07:53,192 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:08:09,288 ERROR [TestLogger] seeIsCartEmpty() TEST IS FAILED : no such element: Unable to locate element: {"method":"css selector","selector":"div[class='empty']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'LAPTOP-DERO3GNT', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8990d63378c899097f5209f49663ced, findElement {using=css selector, value=div[class='empty']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\bmbay\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49261}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49261/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b8990d63378c899097f5209f49663ced 
+2022-07-09 00:33:31,897 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:33:34,026 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:33:36,796 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:33:38,105 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:33:39,167 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:33:40,758 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:33:41,887 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:33:41,948 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:33:42,165 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 00:33:42,426 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:33:43,580 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 00:34:35,562 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:34:37,745 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:34:40,543 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:34:41,695 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:34:42,759 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:34:44,382 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:34:45,525 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:34:45,599 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:34:45,838 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 00:34:46,108 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:34:47,293 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 00:35:24,106 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:35:26,459 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:35:30,396 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:35:31,917 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:35:32,992 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:35:34,749 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:35:35,916 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:35:35,975 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:35:36,169 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 00:35:36,468 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:35:52,583 ERROR [TestLogger] seeIsCartEmpty() TEST IS FAILED : no such element: Unable to locate element: {"method":"css selector","selector":"div[class='empty']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'LAPTOP-DERO3GNT', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [131c755bda8b0003fa9694e5850216ec, findElement {using=css selector, value=div[class='empty']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\bmbay\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65524}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65524/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 131c755bda8b0003fa9694e5850216ec 
+2022-07-09 00:37:02,200 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:37:05,543 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:37:10,762 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:37:13,082 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:37:15,141 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:37:17,892 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:37:20,042 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:37:20,120 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:37:20,350 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 00:37:20,685 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:37:37,792 ERROR [TestLogger] seeIsCartEmpty() TEST IS FAILED : no such element: Unable to locate element: {"method":"css selector","selector":"div[class='empty']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'LAPTOP-DERO3GNT', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7642a12a27c9ea78f6bae1e8566c190b, findElement {using=css selector, value=div[class='empty']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\bmbay\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49238}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49238/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7642a12a27c9ea78f6bae1e8566c190b 
+2022-07-09 00:39:58,972 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:40:02,372 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:40:07,302 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:40:09,680 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:40:11,762 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:40:14,508 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:40:16,653 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:40:16,710 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:40:16,903 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 00:40:17,204 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:40:29,958 ERROR [TestLogger] seeIsCartEmpty() TEST IS FAILED : Unable to find element with locator By.cssSelector: div[class='empty']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'LAPTOP-DERO3GNT', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: driver.version: RemoteWebDriver 
+2022-07-09 00:49:53,872 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:49:57,264 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:50:02,452 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:50:04,620 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:50:06,689 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:50:09,518 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:50:11,667 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:50:11,748 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:50:11,923 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 00:50:12,264 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:50:14,536 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 00:50:34,323 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:50:37,673 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:50:43,084 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:50:45,379 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:50:47,440 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:50:50,344 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:50:52,518 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:50:52,575 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:50:52,756 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 00:50:53,040 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:50:55,378 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 00:51:23,591 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 00:51:26,921 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 00:51:32,251 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 00:51:34,617 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 00:51:36,679 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 00:51:39,545 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 00:51:41,716 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 00:51:41,773 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 00:51:42,000 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 00:51:42,341 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 00:51:44,614 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 14:08:20,829 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 14:08:24,138 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 14:08:28,981 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 14:08:31,303 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 14:08:33,371 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 14:08:36,326 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 14:08:38,455 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 14:08:38,508 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 14:08:38,733 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 14:08:38,928 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 14:08:41,267 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 14:33:03,971 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 14:33:07,128 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 14:33:11,912 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 14:33:14,197 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 14:33:16,286 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 14:33:19,223 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 14:33:21,362 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 14:33:21,411 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 14:33:21,629 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 14:33:21,979 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 14:33:24,240 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 15:08:07,127 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 15:08:10,308 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 15:08:15,511 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 15:08:17,792 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 15:08:19,852 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 15:08:22,636 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 15:08:24,775 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 15:08:24,821 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 15:08:25,029 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 15:08:25,269 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 15:08:27,522 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
+2022-07-09 15:09:10,051 INFO  [TestLogger] isHomePage() TEST IS PASSED 
+2022-07-09 15:09:13,215 INFO  [TestLogger] searchProduct() TEST IS PASSED 
+2022-07-09 15:09:17,972 INFO  [TestLogger] selectProduct() TEST IS PASSED 
+2022-07-09 15:09:20,086 INFO  [TestLogger] addToCart() TEST IS PASSED 
+2022-07-09 15:09:22,152 INFO  [TestLogger] clickCart() TEST IS PASSED 
+2022-07-09 15:09:24,975 INFO  [TestLogger] goToCart() TEST IS PASSED 
+2022-07-09 15:09:27,099 INFO  [TestLogger] increaseProduct() TEST IS PASSED 
+2022-07-09 15:09:27,145 INFO  [TestLogger] refeshCart() TEST IS PASSED 
+2022-07-09 15:09:27,327 INFO  [TestLogger] seecartUpdate() TEST IS PASSED 
+2022-07-09 15:09:27,696 INFO  [TestLogger] removeProduct() TEST IS PASSED 
+2022-07-09 15:09:31,925 INFO  [TestLogger] seeIsCartEmpty() TEST IS PASSED 
