@@ -23,7 +23,7 @@
         - ProductsPage(Ürünlerin Sayfası)
         - ProductDetailPage(Ürün Detay Sayfası)
         - CartPage(Sepet Sayfası)
-      Test Log Clas
+      Test Log Class:
         - TestLogger
         - ResultLogger(test)
 
